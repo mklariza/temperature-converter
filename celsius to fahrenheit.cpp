@@ -13,6 +13,5 @@ cin>>ctemp;
 ftemp=(1.8*ctemp)+32;
 cout << "Temperature in Fahrenheit = " << ftemp << endl;
 
-
 getch();
 }
